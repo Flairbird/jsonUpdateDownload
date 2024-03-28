@@ -1,0 +1,94 @@
+{
+  "config": {
+    "machine_config_id": 0,
+    "recipes": [
+      {
+        "name": "testRecipe",
+        "trays": [
+          {
+            "positions": [
+              {
+                "overlap": 110,
+                "inlays": {
+                  "thickness": 1
+                },
+                "adhesive": {
+                  "index": 1,
+                  "name": "loctite 1234",
+                  "container": "cartridge"
+                },
+                "substrate1": {
+                  "thickness": "2.5",
+                  "material": "MEtal"
+                },
+                "substrate2": {
+                  "thickness": 2,
+                  "material": "PVC"
+                }
+              },
+              {
+                "overlap": 110,
+                "inlays": {
+                  "thickness": 1
+                },
+                "adhesive": {
+                  "name": "loctite 1234",
+                  "container": "cartridge"
+                },
+                "substrate1": {
+                  "thickness": 0.8,
+                  "material": "wood"
+                },
+                "substrate2": {
+                  "thickness": 2,
+                  "material": "PVC"
+                }
+              }
+            ]
+          },
+          {
+            "positions": [
+              {
+                "overlap": 110,
+                "inlays": {
+                  "thickness": 1
+                },
+                "adhesive": {
+                  "index": 1,
+                  "name": "loctite 1234",
+                  "container": "cartridge"
+                },
+                "substrate1": {
+                  "thickness": 0.8,
+                  "material": "wood"
+                },
+                "substrate2": {
+                  "thickness": 2,
+                  "material": "PVC"
+                }
+              },
+              {
+                "overlap": 110,
+                "inlays": {
+                  "thickness": 1
+                },
+                "adhesive": {
+                  "name": "loctite 1234",
+                  "container": "cartridge"
+                },
+                "substrate1": {
+                  "thickness": 0.8,
+                  "material": "wood"
+                },
+                "substrate2": {
+                  "thickness": 2,
+                  "material": "PVC"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

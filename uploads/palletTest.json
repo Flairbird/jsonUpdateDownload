@@ -1,0 +1,2245 @@
+{
+    "config": {
+        "machine_config_id": 0,
+        "boxes": [
+            {
+                "name": "247988 (JR/RD 8;1)",
+                "dimensions": {
+                    "length": 347,
+                    "width": 312,
+                    "height": 126
+                },
+                "pickLocation": [
+                    0,
+                    0,
+                    1500,
+                    0
+                ],
+                "boxDetection": -1,
+                "detectionEnabled": false,
+                "pickFromStack": false,
+                "weight": 11,
+                "labelSide": 3,
+                "labelSideAlt": 1
+            },
+            {
+                "name": "247986 (2000R)",
+                "dimensions": {
+                    "length": 285,
+                    "width": 285,
+                    "height": 144
+                },
+                "pickLocation": [
+                    0,
+                    0,
+                    1500,
+                    0
+                ],
+                "boxDetection": -1,
+                "detectionEnabled": false,
+                "pickFromStack": false,
+                "weight": 15,
+                "labelSide": 3,
+                "labelSideAlt": 0
+            },
+            {
+                "name": "248339 (200R)",
+                "dimensions": {
+                    "length": 266,
+                    "width": 208,
+                    "height": 163
+                },
+                "pickLocation": [
+                    0,
+                    0,
+                    1500,
+                    0
+                ],
+                "boxDetection": -1,
+                "detectionEnabled": false,
+                "pickFromStack": false,
+                "weight": 10,
+                "labelSide": 3,
+                "labelSideAlt": 0
+            },
+            {
+                "name": "247987(JR~JR/RD~JRG-V2)",
+                "dimensions": {
+                    "length": 263,
+                    "width": 193,
+                    "height": 145
+                },
+                "pickLocation": [
+                    0,
+                    0,
+                    1500,
+                    0
+                ],
+                "boxDetection": -1,
+                "detectionEnabled": false,
+                "pickFromStack": false,
+                "weight": 7.7,
+                "labelSide": 3,
+                "labelSideAlt": 3
+            },
+            {
+                "name": "247989(RDRG EXT)",
+                "dimensions": {
+                    "length": 205,
+                    "width": 174,
+                    "height": 153
+                },
+                "pickLocation": [
+                    0,
+                    0,
+                    1500,
+                    0
+                ],
+                "boxDetection": -1,
+                "detectionEnabled": false,
+                "pickFromStack": false,
+                "weight": 5,
+                "labelSide": 1,
+                "labelSideAlt": 1
+            },
+            {
+                "name": "248 340 [RDRG BASIC KIT ODC}",
+                "dimensions": {
+                    "length": 268,
+                    "width": 246,
+                    "height": 140
+                },
+                "pickLocation": [
+                    0,
+                    0,
+                    1500,
+                    0
+                ],
+                "boxDetection": -1,
+                "detectionEnabled": false,
+                "pickFromStack": false,
+                "weight": 6,
+                "labelSide": 3,
+                "labelSideAlt": 0
+            },
+            {
+                "name": "247985(basic kit weld)",
+                "dimensions": {
+                    "length": 285,
+                    "width": 285,
+                    "height": 172
+                },
+                "pickLocation": [
+                    0,
+                    0,
+                    1500,
+                    0
+                ],
+                "boxDetection": -1,
+                "detectionEnabled": false,
+                "pickFromStack": false,
+                "weight": 10,
+                "labelSide": 0,
+                "labelSideAlt": 0
+            }
+        ],
+        "pallets": [
+            {
+                "name": "48 x42 in",
+                "complete": false,
+                "Layouts": [
+                    {
+                        "name": "JR/RD 8;1",
+                        "boxPositions": [
+                            {
+                                "position": {
+                                    "x": 0.085793965,
+                                    "y": 0.043025874
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 0,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.085793965,
+                                    "y": 0.37017247
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 0,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.085793965,
+                                    "y": 0.66451067
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 0,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.3433399,
+                                    "y": 0.043025874
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 0,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.37204725,
+                                    "y": 0.33736408
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 0,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.37204725,
+                                    "y": 0.66451067
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 0,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6295932,
+                                    "y": 0.043025874
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 0,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6295932,
+                                    "y": 0.33736408
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 0,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6583005,
+                                    "y": 0.6317023
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 0,
+                                "spin": false
+                            }
+                        ],
+                        "gapDistance": 2
+                    },
+                    {
+                        "name": "200R",
+                        "boxPositions": [
+                            {
+                                "position": {
+                                    "x": 0.2202856,
+                                    "y": 0.21614917
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2202856,
+                                    "y": 0.46830514
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2202856,
+                                    "y": 0.72046113
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.3933499,
+                                    "y": 0.79796654
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6139864,
+                                    "y": 0.72046113
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.78705066,
+                                    "y": 0.72046113
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.3933499,
+                                    "y": 0.2048456
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.395328,
+                                    "y": 0.40138182
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.3933499,
+                                    "y": 0.6014303
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.05904129,
+                                    "y": 0.007057837
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 2,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.283634,
+                                    "y": 0.007057837
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 2,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.5042705,
+                                    "y": 0.007057837
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 2,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6139864,
+                                    "y": 0.21614917
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6139864,
+                                    "y": 0.46830514
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.724907,
+                                    "y": 0.007057837
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 2,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.78705066,
+                                    "y": 0.21614917
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.78705066,
+                                    "y": 0.46830514
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.04722129,
+                                    "y": 0.21614917
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.04722129,
+                                    "y": 0.46830514
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.04722129,
+                                    "y": 0.72046113
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 2,
+                                "spin": true
+                            }
+                        ],
+                        "gapDistance": 3
+                    },
+                    {
+                        "name": "JR~JR/RD~JRG-V2",
+                        "boxPositions": [
+                            {
+                                "position": {
+                                    "x": 0.033539534,
+                                    "y": 0.043287683
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 3,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.27144912,
+                                    "y": 0.043287683
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 3,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.51213205,
+                                    "y": 0.043287683
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 3,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.7698228,
+                                    "y": 0.043287683
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 3,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.83119375,
+                                    "y": 0.22560865
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.83119375,
+                                    "y": 0.47354642
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.83119375,
+                                    "y": 0.7214842
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.67166287,
+                                    "y": 0.22560865
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.67166287,
+                                    "y": 0.47354642
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.67166287,
+                                    "y": 0.7214842
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.51213205,
+                                    "y": 0.22560865
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.51213205,
+                                    "y": 0.47354642
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.51213205,
+                                    "y": 0.7214842
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.3526012,
+                                    "y": 0.22560865
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.3526012,
+                                    "y": 0.47354642
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.3526012,
+                                    "y": 0.7214842
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.19307037,
+                                    "y": 0.22560865
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.19307037,
+                                    "y": 0.47354642
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.19307037,
+                                    "y": 0.7214842
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.033539534,
+                                    "y": 0.22560865
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.033539534,
+                                    "y": 0.47354642
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.033539534,
+                                    "y": 0.7214842
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 3,
+                                "spin": true
+                            }
+                        ],
+                        "gapDistance": 1.5
+                    },
+                    {
+                        "name": "RDRG EXT",
+                        "boxPositions": [
+                            {
+                                "position": {
+                                    "x": 0.014845801,
+                                    "y": 0.025981631
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.014845801,
+                                    "y": 0.22095726
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.014845801,
+                                    "y": 0.4159329
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.014845801,
+                                    "y": 0.6109085
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.014845801,
+                                    "y": 0.80446196
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.16002296,
+                                    "y": 0.025981631
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.16002296,
+                                    "y": 0.22095726
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.16002296,
+                                    "y": 0.4159329
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.16002296,
+                                    "y": 0.6109085
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.16002296,
+                                    "y": 0.80446196
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.30520013,
+                                    "y": 0.0033745782
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.30520013,
+                                    "y": 0.16929133
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.30520013,
+                                    "y": 0.3352081
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.30520013,
+                                    "y": 0.50112486
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.30520013,
+                                    "y": 0.6670416
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.30520013,
+                                    "y": 0.8329584
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.4758038,
+                                    "y": 0.0033745782
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.4758038,
+                                    "y": 0.16929133
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.4758038,
+                                    "y": 0.3352081
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.4758038,
+                                    "y": 0.50112486
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.4758038,
+                                    "y": 0.6670416
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.4758038,
+                                    "y": 0.8329584
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6464075,
+                                    "y": 0.0033745782
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6464075,
+                                    "y": 0.16929133
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6464075,
+                                    "y": 0.3352081
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6464075,
+                                    "y": 0.50112486
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6464075,
+                                    "y": 0.6670416
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6464075,
+                                    "y": 0.8329584
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.8170112,
+                                    "y": 0.0033745782
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.8170112,
+                                    "y": 0.16929133
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.8170112,
+                                    "y": 0.3352081
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.8170112,
+                                    "y": 0.50112486
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.8170112,
+                                    "y": 0.6670416
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.8170112,
+                                    "y": 0.8329584
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 4,
+                                "spin": true
+                            }
+                        ],
+                        "gapDistance": 3
+                    },
+                    {
+                        "name": "BASIC KIT ODC",
+                        "boxPositions": [
+                            {
+                                "position": {
+                                    "x": 0.06758329,
+                                    "y": 0.0014060743
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 5,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.06758329,
+                                    "y": 0.25994727
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 5,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50836813,
+                                    "y": 0.5185614
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.49409246,
+                                    "y": 0.026538905
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.7163694,
+                                    "y": 0.25994727
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.7163694,
+                                    "y": 0.026538905
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.28609124,
+                                    "y": 0.7525462
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.28609124,
+                                    "y": 0.51427877
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73064506,
+                                    "y": 0.7473753
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50836813,
+                                    "y": 0.75196975
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.06381435,
+                                    "y": 0.75196975
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.06381435,
+                                    "y": 0.5185614
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.27181557,
+                                    "y": 0.026538946
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.49409246,
+                                    "y": 0.25994727
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.27181557,
+                                    "y": 0.25994727
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73064506,
+                                    "y": 0.4933556
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 5,
+                                "spin": false
+                            }
+                        ],
+                        "gapDistance": 3
+                    },
+                    {
+                        "name": "JR/RD 8;1 suite",
+                        "boxPositions": [
+                            {
+                                "position": {
+                                    "x": 0.1136811,
+                                    "y": 0.1740089
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 0,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.1136811,
+                                    "y": 0.5020929
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 0,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.37006912,
+                                    "y": 0.17263527
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 0,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.37204725,
+                                    "y": 0.5020929
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 0,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6304134,
+                                    "y": 0.1740089
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 0,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.6304134,
+                                    "y": 0.5020929
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 0,
+                                "spin": false
+                            }
+                        ],
+                        "gapDistance": 3
+                    },
+                    {
+                        "name": "BASIC KIT ODC SUITE",
+                        "boxPositions": [
+                            {
+                                "position": {
+                                    "x": 0.05667651,
+                                    "y": 0.15129359
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.05667651,
+                                    "y": 0.3847019
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.05667651,
+                                    "y": 0.61811024
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2789534,
+                                    "y": 0.15129359
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2789534,
+                                    "y": 0.3847019
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2789534,
+                                    "y": 0.61811024
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.5012303,
+                                    "y": 0.15129359
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.5012303,
+                                    "y": 0.3847019
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.5012303,
+                                    "y": 0.61811024
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.7235072,
+                                    "y": 0.15129359
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.7235072,
+                                    "y": 0.3847019
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.7235072,
+                                    "y": 0.61811024
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 5,
+                                "spin": false
+                            }
+                        ],
+                        "gapDistance": 3
+                    }
+                ],
+                "Stack": [
+                    {
+                        "name": "JR/RD 8;1",
+                        "layers": [
+                            {
+                                "index": 0,
+                                "transform": 0
+                            },
+                            {
+                                "index": 0,
+                                "transform": 2
+                            },
+                            {
+                                "index": 0,
+                                "transform": 0
+                            },
+                            {
+                                "index": 0,
+                                "transform": 2
+                            },
+                            {
+                                "index": 0,
+                                "transform": 0
+                            },
+                            {
+                                "index": 0,
+                                "transform": 2
+                            },
+                            {
+                                "index": 0,
+                                "transform": 0
+                            },
+                            {
+                                "index": 5,
+                                "transform": 2
+                            },
+                            {
+                                "index": 5,
+                                "transform": 0
+                            }
+                        ]
+                    },
+                    {
+                        "name": "jr-jr/rd-jrg-v2",
+                        "layers": [
+                            {
+                                "index": 2,
+                                "transform": 1
+                            },
+                            {
+                                "index": 2,
+                                "transform": 1
+                            },
+                            {
+                                "index": 2,
+                                "transform": 0
+                            },
+                            {
+                                "index": 2,
+                                "transform": 1
+                            },
+                            {
+                                "index": 2,
+                                "transform": 0
+                            },
+                            {
+                                "index": 2,
+                                "transform": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "RDRG EXT",
+                        "layers": [
+                            {
+                                "index": 3,
+                                "transform": 0
+                            },
+                            {
+                                "index": 3,
+                                "transform": 1
+                            },
+                            {
+                                "index": 3,
+                                "transform": 0
+                            },
+                            {
+                                "index": 3,
+                                "transform": 1
+                            },
+                            {
+                                "index": 3,
+                                "transform": 0
+                            },
+                            {
+                                "index": 3,
+                                "transform": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "RDRG BASIC KIT ODC",
+                        "layers": [
+                            {
+                                "index": 4,
+                                "transform": 0
+                            },
+                            {
+                                "index": 4,
+                                "transform": 3
+                            },
+                            {
+                                "index": 4,
+                                "transform": 0
+                            },
+                            {
+                                "index": 4,
+                                "transform": 3
+                            },
+                            {
+                                "index": 4,
+                                "transform": 0
+                            },
+                            {
+                                "index": 6,
+                                "transform": 3
+                            },
+                            {
+                                "index": 6,
+                                "transform": 0
+                            }
+                        ]
+                    },
+                    {
+                        "name": "200R",
+                        "layers": [
+                            {
+                                "index": 1,
+                                "transform": 0
+                            },
+                            {
+                                "index": 1,
+                                "transform": 1
+                            },
+                            {
+                                "index": 1,
+                                "transform": 0
+                            },
+                            {
+                                "index": 1,
+                                "transform": 1
+                            },
+                            {
+                                "index": 1,
+                                "transform": 0
+                            },
+                            {
+                                "index": 1,
+                                "transform": 1
+                            }
+                        ]
+                    }
+                ],
+                "point": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0,
+                    "θ": 0
+                },
+                "Dimensions": {
+                    "length": 1066.8,
+                    "width": 1219.2,
+                    "height": 125
+                },
+                "Detection": {
+                    "Top": 0,
+                    "TopEnabled": false,
+                    "Bottom": 0,
+                    "BottomEnabled": false
+                }
+            },
+            {
+                "name": "48 x 45 in.",
+                "complete": false,
+                "Layouts": [
+                    {
+                        "name": "2000R",
+                        "boxPositions": [
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.24934383
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.5013123
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.7532808
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.24934383
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.5013123
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.7532808
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.24934383
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.5013123
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.7532808
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.24934383
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.5013123
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.75272
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": -0.002624672
+                                },
+                                "size": 0,
+                                "rotated": true,
+                                "index": 1,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": -0.002624672
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": -0.002624672
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": -0.002624672
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            }
+                        ],
+                        "gapDistance": 3
+                    },
+                    {
+                        "name": "2000R SUITE",
+                        "boxPositions": [
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.12335958
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.3753281
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.62729657
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": true
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.12335958
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.3753281
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.62729657
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.12335958
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.3753281
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.62729657
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.12335958
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.3753281
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.62729657
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 1,
+                                "spin": false
+                            }
+                        ],
+                        "gapDistance": 3
+                    },
+                    {
+                        "name": "BASICKIT WELD/2000R OM",
+                        "boxPositions": [
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": -0.002624672
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.24934383
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.5013123
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": -0.002624672
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.24934383
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.5013123
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": -0.002624672
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.24934383
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.5013123
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": -0.002624672
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.24934383
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.5013123
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.7532808
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.7532808
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.7532808
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.7532808
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            }
+                        ],
+                        "gapDistance": 3
+                    },
+                    {
+                        "name": "basic kit weld/2000R OM(SUITE)",
+                        "boxPositions": [
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.12335958
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.3753281
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.028712058,
+                                    "y": 0.62729657
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.12335958
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.3753281
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.2649713,
+                                    "y": 0.62729657
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.12335958
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.3753281
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.50123054,
+                                    "y": 0.62729657
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.12335958
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.3753281
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            },
+                            {
+                                "position": {
+                                    "x": 0.73748976,
+                                    "y": 0.62729657
+                                },
+                                "size": 0,
+                                "rotated": false,
+                                "index": 6,
+                                "spin": false
+                            }
+                        ],
+                        "gapDistance": 3
+                    }
+                ],
+                "Stack": [
+                    {
+                        "name": "2000R",
+                        "layers": [
+                            {
+                                "index": 0,
+                                "transform": 0
+                            },
+                            {
+                                "index": 0,
+                                "transform": 0
+                            },
+                            {
+                                "index": 0,
+                                "transform": 0
+                            },
+                            {
+                                "index": 0,
+                                "transform": 0
+                            },
+                            {
+                                "index": 0,
+                                "transform": 0
+                            },
+                            {
+                                "index": 1,
+                                "transform": 0
+                            },
+                            {
+                                "index": 1,
+                                "transform": 0
+                            }
+                        ]
+                    },
+                    {
+                        "name": "basic kit weld/2000R OM",
+                        "layers": [
+                            {
+                                "index": 2,
+                                "transform": 0
+                            },
+                            {
+                                "index": 2,
+                                "transform": 1
+                            },
+                            {
+                                "index": 2,
+                                "transform": 0
+                            },
+                            {
+                                "index": 2,
+                                "transform": 1
+                            },
+                            {
+                                "index": 2,
+                                "transform": 0
+                            },
+                            {
+                                "index": 3,
+                                "transform": 0
+                            },
+                            {
+                                "index": 3,
+                                "transform": 0
+                            }
+                        ]
+                    }
+                ],
+                "point": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0,
+                    "θ": 0
+                },
+                "Dimensions": {
+                    "length": 1143,
+                    "width": 1219,
+                    "height": 120
+                },
+                "Detection": {
+                    "Top": 0,
+                    "TopEnabled": false,
+                    "Bottom": 0,
+                    "BottomEnabled": false
+                }
+            }
+        ],
+        "name": ""
+    },
+    "boxCoordinates": [],
+    "complete": true
+}
